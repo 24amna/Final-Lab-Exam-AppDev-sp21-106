@@ -173,7 +173,7 @@ const Profile = ({navigation}) => {
                 </ImageBackground>
               </TouchableOpacity>
               <Text></Text>
-              <Text style={styles.user}>Fatima</Text>
+              <Text style={styles.user}>Amna</Text>
               <Text style={styles.joinTime}>Joined 1hour ago</Text>
             </View>
             <View style={styles.center}>

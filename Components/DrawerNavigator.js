@@ -30,7 +30,7 @@ const CustomDrawerContent = (props ) => {
       <View style={{ padding: 20 }}>
         <Image source={require('./Images/cat.png')} style={{ height: 70, width: 70, borderRadius: 20 }} />
         <Text style={{ color: 'black',  fontSize: 16, marginTop: 10 }}>
-          Fatima Tae
+          Amna
         </Text>
       </View>
       <DrawerItemList {...props} />
